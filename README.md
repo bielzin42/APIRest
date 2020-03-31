@@ -24,7 +24,7 @@ Package.json é um pacote de informações sobre a nossa aplicação, lá ficar�
 
 O que é o Express: 
 
-Express é um framework oara web con um conjunto de recursos para aplicativos web e mobile.
+<b> Express </b> é um framework oara web con um conjunto de recursos para aplicativos web e mobile.
 
 Framework são um conjunto de bibliotecas e sua palavra chave é reusabilidade. Não reinvente a roda!
 
