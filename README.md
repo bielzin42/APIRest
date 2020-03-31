@@ -9,5 +9,8 @@ npm init -y
 ```
 
 Npm = Node Package Manager.
+
 Init = Iniciar.
+
 -y = Sem fazer as perguntas que ele faz por padrão.
+
