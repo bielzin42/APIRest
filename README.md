@@ -1,6 +1,6 @@
 # Projeto de API Básica usando Node, Npm e Express.
 
-#Iniciando o npm e criando o package.json
+# Iniciando o npm e criando o package.json
 
 O que é NPM:
 
@@ -20,7 +20,7 @@ npm init -y
 
 Package.json é um pacote de informações sobre a nossa aplicação, lá ficarão armazenadas diversas informações.
 
-#Instalando o express
+# Instalando o express
 
 O que é o Express: 
 
